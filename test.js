@@ -4,4 +4,4 @@ function greet() {
 }
 
 const m = greet();
-console.log(m)
+console.log(m);
